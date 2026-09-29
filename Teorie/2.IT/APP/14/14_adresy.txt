@@ -1,0 +1,21 @@
+Oslovení	Jméno	Pøíjmení	Ulice	PSÈ	Mìsto
+Pan	Miroslav	Pokorný	Šikmá 5	15000	Praha 5
+Paní	Jolana	Skuhravá	Klikatá 8	58600	Brno
+Paní	Emilie	Krotká	Strmá 16	45600	Chomutov
+Paní	Hana	Vyskoèilová	Úzká 125	12000	Praha 2
+Pan	Xaver	Skákavý	Svìtlá 125	11000	Praha 1
+Paní	Apolena 	Køiklavá	Široká 18	28500	Kouøim
+Paní	Iveta	Tlustá	Dlouhá 15	28600	Benešov
+Pan	Albert	Skoèdopole	Lipová 15	26600	Kolín
+Pan	Karel	Kováøíèek	Dubová 182	26600	Kolín
+Paní	Andrea	Nováková	Jabloòová 15	10000	Praha 10
+Pan	Ivan	Kadrnožka	Hrušková 236	10000	Praha 10
+Pan	Karel	Kousal	Švestková 153	10000	Praha 10
+Pan	Josef	Dupal	Jilmová 5	13000	Praha 3
+Paní	Alena 	Novotná	Habrová 3	13000	Praha 3
+Paní	Hana	Krátká	Jedlová 15	13000	Praha 3
+Pan	Aleš	Dítì	Plachá 42	15000	Praha 5
+Pan	Pavel	Kutil	Syrová 23	26600	Kolín
+Paní	Aloisie	Peèená	Syrová 28	26600	Kolín
+Pan	Petr	Hádavý	Protivná 15	26600	Kolín
+Paní	Ilona	Protivová	šikmá 12	15000	Praha 5 
